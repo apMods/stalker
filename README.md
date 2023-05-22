@@ -59,6 +59,7 @@ https://drive.google.com/file/d/1WuyiMxWv6EXy3NmVLBwMCDATWco0aDG4
 — Absolute Nature 4 (растительность, рекомендую Осенний или Рыжий варианты)
 — CGIM2 (погода)
 — Обновленные модели рук и анимации еды
+
 4. Текстурный пак Stalker 2K (Tiny Little):
 https://ap-pro.ru/forums/topic/1283-stalker-two-k-paket-tekstur/
 https://drive.google.com/file/d/1ucfDRCfpVc4k5tHnzkYno8rVTK8_-Q6K
