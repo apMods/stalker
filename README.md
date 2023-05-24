@@ -66,8 +66,8 @@ https://ap-pro.ru/forums/topic/1283-stalker-two-k-paket-tekstur/
 https://drive.google.com/file/d/1ucfDRCfpVc4k5tHnzkYno8rVTK8_-Q6K
 
 ### Порядок установки
-1. Установить оригинальный Зов Припяти. Запустить Settings.exe и выбрать русский язык.
-2. Установить мод Gunslinger **в отдельную папку** и в процессе установки выбрать дополнительные моды в дистрибутиве.
+1. Установить оригинальный Зов Припяти. Например, в папке `c:\games\stalker_cop`. Запустить Settings.exe и выбрать русский язык.
+2. Установить мод Gunslinger **в отдельную папку**, например, `c:\games\stalker_gunslinger`. В процессе установки выбрать дополнительные моды в дистрибутиве.
 
 ![gunslinger.png](/readme/gunslinger.png)
 
