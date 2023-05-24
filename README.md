@@ -56,10 +56,9 @@ https://vk.com/gunslinger_mod
 https://vk.com/topic-81360630_41180745
 https://drive.google.com/file/d/1WuyiMxWv6EXy3NmVLBwMCDATWco0aDG4
 3. Дополнительные моды в составе дистрибутива Gunslinger:
-
-— Absolute Nature 4 (растительность, рекомендую Осенний или Рыжий варианты)
-— CGIM2 (погода)
-— Обновленные модели рук и анимации еды
+- [x] Absolute Nature 4 (растительность, рекомендую Осенний или Рыжий варианты)
+- [x] CGIM2 (погода)
+- [x] Обновленные модели рук и анимации еды
 
 
 4. Текстурный пак Stalker 2K (Tiny Little):
