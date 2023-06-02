@@ -1,4 +1,5 @@
 # STALKER: Call of Pripyat + Gunslinger + apMod
+![logo.jpeg](/readme/logo.jpeg)
 
 ### Что такое apMod?
 
