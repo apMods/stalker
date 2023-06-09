@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1ucfDRCfpVc4k5tHnzkYno8rVTK8_-Q6K
 ![gunslinger.png](/readme/gunslinger.png)
 
 3. Скопировать текстуры из пака Stalker 2K (Tiny Little) в папку `\gamedata\textures\` мода Gunslinger, созданную в п.2.
-4. Скопировать содержимое многотомного zip-архива мода apMod (gamedata.zip.001, gamedata.zip.002, gamedata.zip.003) в папку `\gamedata\` мода Gunslinger, созданную в п.2.
+4. Скопировать содержимое многотомного zip-архива мода apMod (gamedata.zip.001, gamedata.zip.002, gamedata.zip.003) в папку `\gamedata\` мода Gunslinger, созданную в п.2: `c:\games\stalker_gunslinger\gamedata\`.
 
 ### Детекторы
 ![detectors.png](/readme/detectors.png)
